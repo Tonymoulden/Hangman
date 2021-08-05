@@ -1,0 +1,2 @@
+word_list = ["Beyonce", "Karma", "Tony", "Cat", "Bedroom", "Code", "Animal" "Singing", "dancing", "music"
+             "Sports", "play", "tesla", "feet", "love", "baby", "hippo", "cheetah", "global", "festival", "raining", "sunny"]
